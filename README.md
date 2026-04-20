@@ -1,2 +1,1 @@
-# datawarehouse
-Data Warehouse Template
+# Data Warehouse Template
